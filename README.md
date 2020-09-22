@@ -1,5 +1,4 @@
-### [New Folder] 👋
-
+### [New Folder]
 <!--
 **Ky4eryavii-Pon4o/Ky4eryavii-Pon4o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -13,3 +12,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: (=
+
+[![grishchuk_badge](https://img.shields.io/website?down_color=red&down_message=OFF&label=grishchuk&style=flat-square&up_color=green&up_message=UP&url=http%3A%2F%2Fgrishchuk.com.ua)]()
+[![patap](https://img.shields.io/website?down_color=red&down_message=OFF&label=patap&style=flat-square&up_color=green&up_message=UP&url=https%3A%2F%2Fpatap.org.ua)]()
