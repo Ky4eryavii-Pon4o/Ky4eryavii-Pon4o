@@ -16,3 +16,7 @@
 Tech Blog: [![grishchuk_badge](https://img.shields.io/website?down_color=red&down_message=OFF&label=grishchuk&style=flat-square&up_color=green&up_message=UP&url=http%3A%2F%2Fgrishchuk.com.ua)](http://grishchuk.com.ua)
 
 Public: [![patap](https://img.shields.io/website?down_color=red&down_message=OFF&label=patap&style=flat-square&up_color=green&up_message=UP&url=https%3A%2F%2Fpatap.org.ua)](https://patap.org.ua)
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
