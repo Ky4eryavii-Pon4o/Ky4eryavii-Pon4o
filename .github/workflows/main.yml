@@ -26,7 +26,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: no
           plugin_habits_trim: yes
-          config_timezone: Europe/Amsterdam
+          config_timezone: Europe/Kiev
           plugin_lines: yes
           
           
