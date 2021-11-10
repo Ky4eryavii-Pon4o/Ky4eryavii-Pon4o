@@ -28,6 +28,9 @@ jobs:
           plugin_habits_trim: yes
           config_timezone: Europe/Kiev
           plugin_lines: yes
+          plugin_pagespeed: yes
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_url: it.patap.org.ua
           
           
           
