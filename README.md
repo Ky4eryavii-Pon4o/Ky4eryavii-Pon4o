@@ -13,4 +13,4 @@
 <img src='https://raw.githubusercontent.com/Ky4eryavii-Pon4o/Ky4eryavii-Pon4o/master/github-metrics.svg'>
 
 Used: 
-📊 Metrics | 	:octocat: Github
+[📊 Metrics](https://metrics.lecoq.io/) | [:octocat: Github](https://github.com/)
