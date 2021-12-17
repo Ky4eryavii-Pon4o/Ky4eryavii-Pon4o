@@ -1620,10 +1620,10 @@
                 <div class="row fill-width">
                     <section class="categories">
                         <div class="category column">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge average">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="292.81 329"/>
-                                <text x="60" y="60" dominant-baseline="central">89</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="296.1 329"/>
+                                <text x="60" y="60" dominant-baseline="central">90</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -1673,7 +1673,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                1.05 s
+                1.06 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1683,7 +1683,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                1.10 s
+                1.12 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1721,7 +1721,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                1.05 s
+                1.06 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1731,7 +1731,7 @@
                     <div class="field">
                         <div class="audit text">
               
-                1.10 s
+                1.12 s
               
             </div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
@@ -1860,7 +1860,7 @@ Automatically generated. Merged on Netlify CMS.</span>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Dec 2021, 20:20:04 (timezone Europe/Kiev) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 17 Dec 2021, 21:14:26 (timezone Europe/Kiev) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
