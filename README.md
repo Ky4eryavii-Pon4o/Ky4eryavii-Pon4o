@@ -7,9 +7,9 @@
 - 🔭 I’m currently working HARD
 - 💬 Ask me about monitoring
 - 😂 Fun fact/Забавный факт: Рыгающие лоси - причина глобального потепления
-<!--
+
 [![](https://raw.githubusercontent.com/Ky4eryavii-Pon4o/Ky4eryavii-Pon4o/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
--->
+
 <img src='https://raw.githubusercontent.com/Ky4eryavii-Pon4o/Ky4eryavii-Pon4o/master/github-metrics.svg'>
 
 Used: 
