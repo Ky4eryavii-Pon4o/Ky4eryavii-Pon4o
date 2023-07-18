@@ -4,7 +4,7 @@
 **Ky4eryavii-Pon4o/Ky4eryavii-Pon4o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working HARD
+- 🛡️ I’m currently working HARD
 - 💬 Ask me about monitoring
 - 😂 Fun fact/Забавный факт: Рыгающие лоси - причина глобального потепления
 <!--
