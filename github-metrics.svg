@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            505 issue comments
+                            506 issue comments
                         </div>
                     </section>
                     <section>
@@ -225,14 +225,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.7402874614482" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="281.7402874614482" y="0" width="70.32586620801317" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="352.06615366946136" y="0" width="43.86395022787945" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="395.9301038973408" y="0" width="40.902833996756186" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="436.832937894097" y="0" width="9.782120917568427" height="8" fill="#083fa1"/>
-                    <rect mask="url(#languages-bar)" x="446.6150588116654" y="0" width="5.491208363329757" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="452.10626717499514" y="0" width="3.989388969346223" height="8" fill="#292929"/>
-                    <rect mask="url(#languages-bar)" x="456.09565614434143" y="0" width="3.904343855658609" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="281.7383144322172" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="281.7383144322172" y="0" width="70.32537371547342" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="352.0636881476906" y="0" width="43.863643048324946" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="395.9273311960156" y="0" width="40.90254755391965" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="436.8298787499352" y="0" width="9.786562349873035" height="8" fill="#083fa1"/>
+                    <rect mask="url(#languages-bar)" x="446.61644109980824" y="0" width="5.491169908358649" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="452.1076110081669" y="0" width="3.9880724783221915" height="8" fill="#292929"/>
+                    <rect mask="url(#languages-bar)" x="456.09568348648907" y="0" width="3.904316513510902" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -362,19 +362,19 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.93 s</div>
+                        <div class="audit text">0.91 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.97 s</div>
+                        <div class="audit text">1.15 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0</div>
+                        <div class="audit text">0.01</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -404,19 +404,19 @@
                 </section>
                 <section>
                     <div class="field">
-                        <div class="audit text">0.93 s</div>
+                        <div class="audit text">0.91 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0.97 s</div>
+                        <div class="audit text">1.15 s</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
                     </div>
                     <div class="field">
-                        <div class="audit text">0</div>
+                        <div class="audit text">0.01</div>
                         <svg xmlns="http://www.w3.org/2000/svg" class="audit high" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0zM0 8a8 8 0 1116 0A8 8 0 010 8zm11.78-1.72a.75.75 0 00-1.06-1.06L6.75 9.19 5.28 7.72a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l4.5-4.5z"/>
                         </svg>
@@ -461,7 +461,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Sept 2026, 17:48:07 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Sept 2026, 22:50:00 (timezone Europe/Kiev) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
